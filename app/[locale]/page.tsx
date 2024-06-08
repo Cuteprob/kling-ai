@@ -10,7 +10,7 @@ export default function Index() {
       {/* <h1>{t("title")}</h1> */}
       <HeroPage />
       <Features />
-      <FAQ faqs={qa} />
+      <FAQ />
     </main>
   );
 }

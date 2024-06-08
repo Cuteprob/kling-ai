@@ -33,16 +33,15 @@ export default function HeroPage({}: Props) {
           </span>
         </h1>
         <h2 className="mx-auto mt-12 max-w-xl text-lg sm:text-gray-700  text-gray-700 leading-7">
-          Take your professional business headshot right now ! Espically for
-          female professional headshots.Stand out more on Linkedin or other
-          social media!
+          {t("description")}
         </h2>
-        {/* <Link
+        <Link
           className="bg-blue-600 rounded-xl text-white font-medium px-4 py-3 sm:mt-10 mt-8 hover:bg-blue-500 transition"
-          href="/create"
+          href="https://kling.kuaishou.com/"
+          rel="nofollow"
         >
-          Get your Headshot
-        </Link> */}
+          WaitList
+        </Link>
 
         {/* video */}
         <CarouselVideo />
