@@ -1,0 +1,151 @@
+{
+  "Meta": {
+    "title": "Kling AI | Sora-ähnliches Text-zu-Video-Generierungsmodell",
+    "description": "Entdecken Sie Kling AI, ein revolutionäres Sora-ähnliches Text-zu-Video-Modell. Erstellen Sie atemberaubende Videos mit fortschrittlichen 3D-Mechanismen und kinoreifer Qualität."
+  },
+  "IndexPage": {
+    "description": "Entdecken Sie Kling AI, ein revolutionäres Sora-ähnliches Text-zu-Video-Modell. Erstellen Sie beeindruckende Videos mit fortschrittlichen 3D-Mechanismen und kinoreifer Qualität. Jetzt in der 'Kuaiying' App verfügbar!",
+    "title": "Kling AI: Sora-ähnliches Text-zu-Video-Modell",
+    "videoExample": [
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-1.mp4",
+        "prompt": "Ein Kaiserfisch mit gelb-blauen Streifen schwimmt in einem felsigen Unterwasserlebensraum"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-2.mp4",
+        "prompt": "Eine Hand gießt Milch aus einem Stahlmilchaufschäumer in eine Tasse Kaffee auf dem Tisch, im Hintergrund eine verschwommene Küche"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-3.mp4",
+        "prompt": "Zwei Blumen blühen langsam vor einem schwarzen Hintergrund und zeigen zarte Blütenblätter und Staubblätter"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-4.mp4",
+        "prompt": "Ein großer Panda spielt Gitarre am See"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-5.mp4",
+        "prompt": "Ein Auto fährt in der Dämmerung auf der Straße, im Rückspiegel spiegelt sich ein atemberaubender Sonnenuntergang und eine ruhige Landschaft wider"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-6.mp4",
+        "prompt": "Eine Nahaufnahme der Federn eines leuchtend blauen Papageis, die im Licht funkeln und sein einzigartiges Gefieder und seine lebhaften Farben zeigen"
+      }
+    ]
+  },
+  "ExamplePage": {
+    "videoExample": [
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/long-1.mp4",
+        "prompt": "Ein kleiner Junge fährt im Garten Fahrrad und erlebt den Wechsel der vier Jahreszeiten: Herbst, Winter, Frühling und Sommer."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/long-2.mp4",
+        "prompt": "Mit dem Zug fahren und durch das Fenster verschiedene Landschaften betrachten."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/sport-1.mp4",
+        "prompt": "Ein Mann galoppiert auf einem Pferd in der Gobi-Wüste mit einem schönen Sonnenuntergang im Hintergrund, Filmszene."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/sport-2.mp4",
+        "prompt": "Ein Astronaut rennt auf der Mondoberfläche, aus der Froschperspektive wird der weite Mondhintergrund gezeigt, Bewegung ist fließend und leicht."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/sport-3.mp4",
+        "prompt": "Ein Rallye-Auto nimmt eine schnelle Kurve auf der Strecke."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/concept-1.mp4",
+        "prompt": "Eine weiße Katze fährt ein Auto und fährt durch eine belebte städtische Straße, im Hintergrund hohe Gebäude und Fußgänger."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/concept-2.mp4",
+        "prompt": "Makroaufnahme, ein Vulkan bricht in einer Kaffeetasse aus."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/concept-3.mp4",
+        "prompt": "Eine Lego-Figur besucht eine Kunstgalerie."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/film-1.mp4",
+        "prompt": "Ein Paar hält sich an den Händen und läuft unter dem Sternenhimmel, Hintergrund von sich drehenden Sternen."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/film-2.mp4",
+        "prompt": "Ein Schornstein bei Sonnenuntergang."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/film-3.mp4",
+        "prompt": "Tautropfen auf blauen Rosenblättern, HD, Nahaufnahme, Detail."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-1.mp4",
+        "prompt": "Ein chinesischer Junge mit Brille genießt mit geschlossenen Augen einen köstlichen Cheeseburger in einem Fast-Food-Restaurant."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-2.mp4",
+        "prompt": "Ein chinesischer Mann sitzt an einem Tisch und isst Nudeln mit Stäbchen."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-3.mp4",
+        "prompt": "Ein Koch schneidet Zwiebeln in der Küche und bereitet ein Gericht vor."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-4.mp4",
+        "prompt": "Vorsichtig Milch in eine Tasse gießen, die Milch fließt gleichmäßig und füllt die Tasse allmählich mit milchiger weißer Farbe."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/output-1.mp4",
+        "prompt": "Ein Corgi mit Sonnenbrille spaziert am Strand einer tropischen Insel."
+      }
+    ]
+  },
+  "LocaleLayout": {
+    "title": "next-intl Beispiel"
+  },
+  "LocaleSwitcher": {
+    "label": "Sprache ändern",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} fr {🇫🇷 Français} es {🇪🇸 Español} zh {🇨🇳 中文} ja {🇯🇵 日本語} ru {🇷🇺 Русский} other {Unbekannt}}"
+  },
+  "Navigation": {
+    "home": "Startseite",
+    "pathnames": "Pfadnamen",
+    "Examples": "Beispiele",
+    "Playground": "Spielplatz"
+  },
+  "NotFoundPage": {
+    "description": "Bitte überprüfe die Addressleiste deines Browsers oder verwende die Navigation um zu einer bekannten Seite zu wechseln.",
+    "title": "Seite nicht gefunden"
+  },
+  "qa": [
+    {
+      "question": "Was ist Kling AI und wie funktioniert es?",
+      "answer": "Kling AI ist eine hochmoderne KI-Plattform, die fortschrittliche 3D-raumzeitliche gemeinsame Aufmerksamkeitsmechanismen nutzt, um komplexe Bewegungen zu modellieren und hochwertige Videoinhalte zu generieren. Es unterstützt Videos mit einer Länge von bis zu 2 Minuten bei einer Bildrate von 30 fps, simuliert physikalische Eigenschaften der realen Welt und produziert kinoreife Videos mit 1080p-Auflösung."
+    },
+    {
+      "question": "Wie kann ich Kling AI nutzen?",
+      "answer": "Derzeit ist Kling AI exklusiv für Beta-Tests in der 'Kuaiying'-App verfügbar. Eine Webversion wird in Kürze veröffentlicht. Sie können an der Beta teilnehmen, indem Sie die 'Kuaiying'-App herunterladen und sich für den Zugang anmelden."
+    },
+    {
+      "question": "Welche Art von Videos kann Kling AI generieren?",
+      "answer": "Kling AI kann eine breite Palette von Videoinhalten generieren, einschließlich solcher mit bedeutenden Bewegungen, bis zu einer Länge von 2 Minuten und in verschiedenen Seitenverhältnissen. Es kann realistische physikalische Eigenschaften simulieren und komplexe Konzepte kombinieren, um einzigartige und fantasievolle Szenarien zu erstellen."
+    },
+    {
+      "question": "Kann Kling AI kinoreife Videos erstellen?",
+      "answer": "Ja, Kling AI ist in der Lage, kinoreife Videos mit 1080p-Auflösung zu erstellen und beeindruckende visuelle Darstellungen von weiten Szenen bis hin zu detaillierten Nahaufnahmen zu liefern."
+    },
+    {
+      "question": "Kann Kling AI Videos in verschiedenen Seitenverhältnissen generieren?",
+      "answer": "Ja, Kling AI unterstützt flexible Ausgabeseitenverhältnisse für Videos, dank seiner variablen Auflösungstrainingsstrategie. Dies ermöglicht es, die unterschiedlichen Anforderungen an Videoinhalte in verschiedenen Szenarien zu erfüllen."
+    },
+    {
+      "question": "Wie geht Kling AI mit komplexen Konzeptkombinationen um?",
+      "answer": "Kling AI nutzt ein tiefes Verständnis der Text-zu-Video-Semantik und die leistungsstarke Diffusion Transformer-Architektur, um die reiche Vorstellungskraft der Benutzer in konkrete Bilder zu verwandeln und Szenarien zu erstellen, die in der realen Welt nicht existieren."
+    },
+    {
+      "question": "Wann wird die Webversion von Kling AI verfügbar sein?",
+      "answer": "Die Webversion von Kling AI befindet sich derzeit in der Entwicklung und wird bald nach Abschluss der Beta-Testphase in der 'Kuaiying'-App veröffentlicht."
+    }
+  ]
+}

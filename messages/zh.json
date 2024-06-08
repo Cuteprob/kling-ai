@@ -1,0 +1,150 @@
+{
+  "Meta": {
+    "title": "Kling AI | 类似 Sora 的文本生成视频模型",
+    "description": "发现 Kling AI，一个革命性的类似 Sora 的文本生成视频模型。使用先进的 3D 机制和电影级质量创建令人惊叹的视频。"
+  },
+  "IndexPage": {
+    "title": "Kling AI 类似 Sora 的文本生成视频模型",
+    "videoExample": [
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-1.mp4",
+        "prompt": "一条带有黄蓝相间条纹的皇帝神仙鱼在岩石水下栖息地中游动"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-2.mp4",
+        "prompt": "一只手将牛奶从钢制打奶壶倒入桌上一杯咖啡中，背景为模糊的厨房"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-3.mp4",
+        "prompt": "两朵花在黑色背景下缓慢绽放，展示出细腻的花瓣和花蕊"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-4.mp4",
+        "prompt": "一只大熊猫在湖边弹吉他"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-5.mp4",
+        "prompt": "傍晚时分，一辆汽车行驶在公路上，后视镜中映出绚丽的日落和宁静的景色"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-6.mp4",
+        "prompt": "特写镜头下，一只亮蓝色鹦鹉的羽毛在光线下闪闪发光，展示出其独特的羽毛和鲜艳的色彩"
+      }
+    ]
+  },
+  "ExamplePage": {
+    "videoExample": [
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/long-1.mp4",
+        "prompt": "小男孩在花园里骑自行车经历秋冬春夏四季变换"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/long-2.mp4",
+        "prompt": "乘坐火车，透过车窗游览各式各样的风景"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/sport-1.mp4",
+        "prompt": "一个男人骑着马在戈壁沙漠飞奔，背后美丽的夕阳，电影级别画面"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/sport-2.mp4",
+        "prompt": "一名宇航员在月球表面奔跑，低角度镜头展现了月球的广阔背景，动作流畅且显得轻盈"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/sport-3.mp4",
+        "prompt": "一辆拉力赛车在赛道上快速转弯"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/concept-1.mp4",
+        "prompt": "一只白猫在车里驾驶，穿过繁忙的市区街道，背景是高楼和行人"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/concept-2.mp4",
+        "prompt": "微距镜头，火山在一个咖啡杯中喷发"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/concept-3.mp4",
+        "prompt": "一个积木小人在美术馆里参观"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/film-1.mp4",
+        "prompt": "一对男女手牵手在星空下行走，背景斗转星移"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/film-2.mp4",
+        "prompt": "落日余晖下的烟囱"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/film-3.mp4",
+        "prompt": "露水在蓝色玫瑰花瓣上，高清，近景，细节"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-1.mp4",
+        "prompt": "一个戴眼镜的中国男孩在快餐店内闭眼享受美味的芝士汉堡"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-2.mp4",
+        "prompt": "一个中国男人坐在桌前，用筷子吃面条"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-3.mp4",
+        "prompt": "厨师在厨房切洋葱，为准备菜肴做准备"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-4.mp4",
+        "prompt": "小心地将牛奶倒入杯中，奶流平稳，杯子渐渐被奶白色填满"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/output-1.mp4",
+        "prompt": "一只戴着太阳镜的柯基在热带岛屿的海滩上漫步"
+      }
+    ]
+  },
+  "LocaleLayout": {
+    "title": "next-intl 示例"
+  },
+  "LocaleSwitcher": {
+    "label": "更改语言",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} fr {🇫🇷 Français} es {🇪🇸 Español} zh {🇨🇳 中文} ja {🇯🇵 日本語} ru {🇷🇺 Русский} other {未知}}"
+  },
+  "Navigation": {
+    "home": "首页",
+    "pathnames": "路径名",
+    "Examples": "示例",
+    "Playground": "操场"
+  },
+  "NotFoundPage": {
+    "description": "请仔细检查浏览器地址栏或使用导航转到已知页面。",
+    "title": "未找到页面"
+  },
+  "qa": [
+    {
+      "question": "什么是 Kling AI，它如何工作？",
+      "answer": "Kling AI 是一个最先进的 AI 平台，利用先进的 3D 时空联合注意机制来模拟复杂的运动并生成高质量的视频内容。它支持长达 2 分钟的视频，帧率达到 30fps，模拟现实世界的物理特性，并生成具有 1080p 分辨率的电影级视频。"
+    },
+    {
+      "question": "我如何使用 Kling AI？",
+      "answer": "目前，Kling AI 仅在 'Kuaiying' 应用上进行内测。网页版将很快推出。你可以通过下载 'Kuaiying' 应用并注册以参与测试。"
+    },
+    {
+      "question": "Kling AI 能生成什么类型的视频？",
+      "answer": "Kling AI 能生成各种视频内容，包括具有显著运动的内容，时长可达 2 分钟，并支持多种宽高比。它可以模拟真实的物理特性，并结合复杂的概念，创造出独特和富有想象力的场景。"
+    },
+    {
+      "question": "Kling AI 能生成电影级的视频吗？",
+      "answer": "是的，Kling AI 能生成具有 1080p 分辨率的电影级视频，从广阔宏大的场景到细致入微的特写镜头，都能生动呈现。"
+    },
+    {
+      "question": "Kling AI 能生成不同宽高比的视频吗？",
+      "answer": "是的，Kling AI 支持灵活的视频宽高比输出，得益于其可变分辨率训练策略。这使其能够满足不同视频内容场景的多样化需求。"
+    },
+    {
+      "question": "Kling AI 如何处理复杂的概念组合？",
+      "answer": "Kling AI 利用对文本-视频语义的深刻理解和强大的扩散变换架构，将用户丰富的想象力转化为具体的图像，创造出在现实世界中不存在的场景。"
+    },
+    {
+      "question": "Kling AI 的网页版什么时候推出？",
+      "answer": "Kling AI 的网页版目前正在开发中，将在 快影 应用的内测阶段完成后很快推出。"
+    }
+  ]
+}

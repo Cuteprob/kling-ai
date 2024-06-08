@@ -1,0 +1,150 @@
+{
+  "Meta": {
+    "title": "Kling AI | ソラのようなテキストからビデオ生成モデル",
+    "description": "Kling AIを発見してください、革命的なソラのようなテキストからビデオ生成モデルです。高度な3Dメカニズムと映画品質で素晴らしいビデオを作成します。"
+  },
+  "IndexPage": {
+    "title": "Kling AI ソラのようなテキストからビデオ生成モデル",
+    "videoExample": [
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-1.mp4",
+        "prompt": "黄色と青の縞模様のロイヤルエンゼルフィッシュが岩のある水中の生息地を泳ぐ"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-2.mp4",
+        "prompt": "手がスチールのミルクフォーマージャグからテーブルのコーヒーカップにミルクを注ぐ、背景はぼやけたキッチン"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-3.mp4",
+        "prompt": "2つの花が黒い背景にゆっくりと咲き、繊細な花びらと雄しべを披露"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-4.mp4",
+        "prompt": "湖のほとりでギターを弾くジャイアントパンダ"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-5.mp4",
+        "prompt": "夕暮れ時に道路を走る車、バックミラーに映る美しい夕日と静かな景色"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-6.mp4",
+        "prompt": "明るい青のオウムの羽が光の中でキラキラと輝き、その独特の羽毛と鮮やかな色を披露するクローズアップショット"
+      }
+    ]
+  },
+  "ExamplePage": {
+    "videoExample": [
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/long-1.mp4",
+        "prompt": "小さな男の子が庭で自転車に乗り、秋、冬、春、夏の四季の変化を体験する。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/long-2.mp4",
+        "prompt": "電車に乗って、窓からさまざまな風景を眺める。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/sport-1.mp4",
+        "prompt": "ゴビ砂漠で馬に乗って疾走する男、美しい夕日を背景にした映画のようなシーン。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/sport-2.mp4",
+        "prompt": "低い角度から月の表面を走る宇宙飛行士、広大な月の背景を見せ、動きがスムーズで軽やか。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/sport-3.mp4",
+        "prompt": "ラリーレースカーがトラックで急カーブを曲がる。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/concept-1.mp4",
+        "prompt": "白い猫が車を運転し、忙しい都会の街を通り過ぎ、背景には高層ビルと歩行者。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/concept-2.mp4",
+        "prompt": "マクロショット、コーヒーカップの中で火山が噴火する。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/concept-3.mp4",
+        "prompt": "レゴのフィギュアが美術館を訪れる。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/film-1.mp4",
+        "prompt": "星空の下で手をつないで歩くカップル、背景に星が回転している。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/film-2.mp4",
+        "prompt": "夕日の中の煙突。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/film-3.mp4",
+        "prompt": "青いバラの花びらに付いた露、HD、クローズアップ、ディテール。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-1.mp4",
+        "prompt": "ファストフード店で目を閉じて美味しいチーズバーガーを楽しむメガネをかけた中国人の男の子。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-2.mp4",
+        "prompt": "テーブルに座って箸で麺を食べる中国人の男。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-3.mp4",
+        "prompt": "キッチンで料理の準備のために玉ねぎを切るシェフ。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-4.mp4",
+        "prompt": "注意深くカップにミルクを注ぎ、ミルクが滑らかに流れ、カップが次第にミルクの白色で満たされる。"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/output-1.mp4",
+        "prompt": "サングラスをかけたコーギーが熱帯の島のビーチを散歩する。"
+      }
+    ]
+  },
+  "LocaleLayout": {
+    "title": "next-intl 例"
+  },
+  "LocaleSwitcher": {
+    "label": "言語を変更",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} fr {🇫🇷 Français} es {🇪🇸 Español} zh {🇨🇳 中文} ja {🇯🇵 日本語} ru {🇷🇺 Русский} other {不明}}"
+  },
+  "Navigation": {
+    "home": "ホーム",
+    "pathnames": "パス名",
+    "Examples": "例",
+    "Playground": "遊び場"
+  },
+  "NotFoundPage": {
+    "description": "ブラウザのアドレスバーを再確認するか、ナビゲーションを使用して既知のページにアクセスしてください。",
+    "title": "ページが見つかりません"
+  },
+  "qa": [
+    {
+      "question": "Kling AI とは何ですか、そしてどのように機能しますか？",
+      "answer": "Kling AI は、複雑な動きをモデル化し、高品質のビデオコンテンツを生成するために高度な 3D 時空間共同注意メカニズムを利用する最先端の AI プラットフォームです。30fps のフレームレートで最大 2 分間のビデオをサポートし、現実の物理特性をシミュレートし、1080p 解像度の映画品質のビデオを生成します。"
+    },
+    {
+      "question": "Kling AI をどのように使用できますか？",
+      "answer": "現在、Kling AI は 'Kuaiying' アプリでのベータテストに限定されています。Web バージョンは近日中にリリースされます。'Kuaiying' アプリをダウンロードし、アクセスのためにサインアップすることでベータに参加できます。"
+    },
+    {
+      "question": "Kling AI はどのような種類のビデオを生成できますか？",
+      "answer": "Kling AI は、顕著な動きがあるものを含む、さまざまなビデオコンテンツを生成できます。最大 2 分の長さで、さまざまなアスペクト比で生成できます。現実的な物理特性をシミュレートし、複雑な概念を組み合わせて、独自で想像力豊かなシナリオを作成できます。"
+    },
+    {
+      "question": "Kling AI は映画品質のビデオを生成できますか？",
+      "answer": "はい、Kling AI は 1080p 解像度の映画品質のビデオを生成でき、広大なシーンから詳細なクローズアップまで素晴らしいビジュアルを提供します。"
+    },
+    {
+      "question": "Kling AI はさまざまなアスペクト比でビデオを生成できますか？",
+      "answer": "はい、Kling AI は可変解像度トレーニング戦略のおかげで柔軟なアスペクト比のビデオをサポートします。これにより、さまざまなビデオコンテンツシナリオの多様なニーズに対応できます。"
+    },
+    {
+      "question": "Kling AI は複雑な概念の組み合わせをどのように処理しますか？",
+      "answer": "Kling AI は、テキストからビデオへの意味の深い理解と強力な拡散変換アーキテクチャを利用して、ユーザーの豊かな想像力を具体的な画像に変換し、現実には存在しないシナリオを作成します。"
+    },
+    {
+      "question": "Kling AI の Web バージョンはいつ利用可能になりますか？",
+      "answer": "Kling AI の Web バージョンは現在開発中で、'Kuaiying' アプリでのベータテストフェーズの完了後、すぐにリリースされます。"
+    }
+  ]
+}

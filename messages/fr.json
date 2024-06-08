@@ -1,0 +1,150 @@
+{
+  "Meta": {
+    "title": "Kling AI | Modèle de génération de texte en vidéo de type Sora",
+    "description": "Découvrez Kling AI, un modèle révolutionnaire de génération de texte en vidéo de type Sora. Créez des vidéos époustouflantes avec des mécanismes 3D avancés et une qualité cinématographique."
+  },
+  "IndexPage": {
+    "title": "Kling AI Modèle de génération de texte en vidéo de type Sora",
+    "videoExample": [
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-1.mp4",
+        "prompt": "Un poisson-ange royal avec des rayures jaunes et bleues nageant dans un habitat rocheux sous-marin"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-2.mp4",
+        "prompt": "Une main versant du lait d'un pot en acier dans une tasse de café sur une table, avec une cuisine floue en arrière-plan"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-3.mp4",
+        "prompt": "Deux fleurs éclosent lentement sur un fond noir, montrant des pétales et des étamines délicates"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-4.mp4",
+        "prompt": "Un panda géant jouant de la guitare près d'un lac"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-5.mp4",
+        "prompt": "Une voiture roulant sur la route au crépuscule, avec un magnifique coucher de soleil et un paysage serein reflété dans le rétroviseur"
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-6.mp4",
+        "prompt": "Un gros plan sur les plumes d'un perroquet bleu vif scintillant à la lumière, montrant son plumage unique et ses couleurs vives"
+      }
+    ]
+  },
+  "ExamplePage": {
+    "videoExample": [
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/long-1.mp4",
+        "prompt": "Un petit garçon fait du vélo dans le jardin, expérimentant les changements des quatre saisons : automne, hiver, printemps et été."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/long-2.mp4",
+        "prompt": "Voyager en train, en regardant divers paysages par la fenêtre."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/sport-1.mp4",
+        "prompt": "Un homme galope à cheval dans le désert de Gobi avec un magnifique coucher de soleil en arrière-plan, scène cinématographique."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/sport-2.mp4",
+        "prompt": "Un astronaute court à la surface de la lune, prise de vue en contre-plongée montrant le vaste arrière-plan lunaire, mouvement fluide et léger."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/sport-3.mp4",
+        "prompt": "Une voiture de rallye prend rapidement un virage sur la piste."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/concept-1.mp4",
+        "prompt": "Un chat blanc conduisant une voiture, traversant une rue urbaine animée avec des bâtiments hauts et des piétons en arrière-plan."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/concept-2.mp4",
+        "prompt": "Plan macro, un volcan entre en éruption dans une tasse de café."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/concept-3.mp4",
+        "prompt": "Une figurine Lego visitant une galerie d'art."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/film-1.mp4",
+        "prompt": "Un couple se tenant la main marchant sous le ciel étoilé, fond d'étoiles changeantes."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/film-2.mp4",
+        "prompt": "Une cheminée au coucher du soleil."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/film-3.mp4",
+        "prompt": "Rosée sur des pétales de rose bleue, HD, gros plan, détails."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-1.mp4",
+        "prompt": "Un garçon chinois portant des lunettes dégustant un délicieux cheeseburger les yeux fermés dans un restaurant de fast-food."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-2.mp4",
+        "prompt": "Un homme chinois assis à une table mangeant des nouilles avec des baguettes."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-3.mp4",
+        "prompt": "Un chef coupant des oignons dans la cuisine, préparant un plat."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/world-4.mp4",
+        "prompt": "Verser soigneusement du lait dans une tasse, le lait coule doucement, remplissant progressivement la tasse de couleur blanche laiteuse."
+      },
+      {
+        "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/output-1.mp4",
+        "prompt": "Un corgi portant des lunettes de soleil se promenant sur une plage d'île tropicale."
+      }
+    ]
+  },
+  "LocaleLayout": {
+    "title": "Exemple next-intl"
+  },
+  "LocaleSwitcher": {
+    "label": "Changer de langue",
+    "locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} fr {🇫🇷 Français} es {🇪🇸 Español} zh {🇨🇳 中文} ja {🇯🇵 日本語} ru {🇷🇺 Русский} other {Inconnu}}"
+  },
+  "Navigation": {
+    "home": "Accueil",
+    "pathnames": "Noms de chemins",
+    "Examples": "Exemples",
+    "Playground": "Terrain de jeu"
+  },
+  "NotFoundPage": {
+    "description": "Veuillez vérifier la barre d'adresse du navigateur ou utiliser la navigation pour accéder à une page connue.",
+    "title": "Page non trouvée"
+  },
+  "qa": [
+    {
+      "question": "Qu'est-ce que Kling AI et comment ça fonctionne?",
+      "answer": "Kling AI est une plateforme IA de pointe qui utilise des mécanismes d'attention conjointe spatio-temporels 3D avancés pour modéliser des mouvements complexes et générer du contenu vidéo de haute qualité. Il prend en charge des vidéos allant jusqu'à 2 minutes avec une fréquence d'images de 30 fps, simule les caractéristiques physiques du monde réel et produit des vidéos de qualité cinématographique avec une résolution de 1080p."
+    },
+    {
+      "question": "Comment puis-je utiliser Kling AI?",
+      "answer": "Actuellement, Kling AI est disponible en test bêta exclusivement sur l'application 'Kuaiying'. Une version web sera bientôt disponible. Vous pouvez rejoindre la bêta en téléchargeant l'application 'Kuaiying' et en vous inscrivant pour accéder."
+    },
+    {
+      "question": "Quel type de vidéos Kling AI peut-il générer?",
+      "answer": "Kling AI peut générer une large gamme de contenus vidéo, y compris ceux avec des mouvements significatifs, jusqu'à 2 minutes de longueur et dans divers formats d'aspect. Il peut simuler des caractéristiques physiques réalistes et combiner des concepts complexes pour créer des scénarios uniques et imaginatifs."
+    },
+    {
+      "question": "Kling AI peut-il créer des vidéos de qualité cinématographique?",
+      "answer": "Oui, Kling AI est capable de générer des vidéos de qualité cinématographique avec une résolution de 1080p, offrant des visuels époustouflants allant des scènes expansives aux gros plans détaillés."
+    },
+    {
+      "question": "Kling AI peut-il générer des vidéos dans différents formats d'aspect?",
+      "answer": "Oui, Kling AI prend en charge des formats d'aspect vidéo flexibles, grâce à sa stratégie d'entraînement à résolution variable. Cela permet de répondre aux divers besoins de différents scénarios de contenu vidéo."
+    },
+    {
+      "question": "Comment Kling AI gère-t-il les combinaisons de concepts complexes?",
+      "answer": "Kling AI utilise une compréhension approfondie de la sémantique texte-vidéo et l'architecture puissante de Diffusion Transformer pour transformer l'imagination riche des utilisateurs en images concrètes, créant des scénarios qui n'existent pas dans le monde réel."
+    },
+    {
+      "question": "Quand la version web de Kling AI sera-t-elle disponible?",
+      "answer": "La version web de Kling AI est actuellement en développement et sera lancée bientôt après la phase de test bêta sur l'application 'Kuaiying'."
+    }
+  ]
+}
