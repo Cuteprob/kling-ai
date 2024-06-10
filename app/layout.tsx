@@ -5,6 +5,9 @@ import "./globals.css";
 import { ClerkProvider } from "@clerk/nextjs";
 import { ReactNode } from "react";
 import { getTranslations } from "next-intl/server";
+import Script from "next/script";
+import Head from "next/head";
+import { host, locales } from "@/config";
 
 // import Header from "@/components/common/header";
 // import Footer from "@/components/common/footer";
@@ -30,6 +33,19 @@ export async function generateMetadata({
   return {
     title: t("title"),
     description: t("description"),
+    alternates: {
+      canonical: "https://klingai.org/",
+      languages: {
+        en: "https://klingai.org/",
+        de: "https://klingai.org/de",
+        fr: "https://klingai.org/fr",
+        es: "https://klingai.org/es",
+        zh: "https://klingai.org/zh",
+        ja: "https://klingai.org/ja",
+        ru: "https://klingai.org/ru",
+        "x-default": "https://klingai.org/",
+      },
+    },
   };
 }
 
@@ -43,6 +59,28 @@ export default function RootLayout({
       <ClerkProvider>
         <html lang="en">
           <body className={inter.className}>{children}</body>
+          <Script
+            id="plausible-analyze"
+            defer
+            data-domain="klingai.org"
+            src="https://plausiblepig.zeabur.app/js/script.js"
+          ></Script>
+
+          {/* <!-- Google tag (gtag.js) --> */}
+          <Script
+            async
+            src="https://www.googletagmanager.com/gtag/js?id=G-LCD61NEK1D"
+          ></Script>
+          <Script id="ga">
+            {`
+                  window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'G-LCD61NEK1D');
+
+              `}
+          </Script>
         </html>
       </ClerkProvider>
     </ViewTransitions>

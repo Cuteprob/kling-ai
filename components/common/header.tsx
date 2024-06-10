@@ -102,7 +102,7 @@ export default function Header() {
             {t("Examples")}
           </NavigationLink>
 
-          <NavigationLink
+          {/* <NavigationLink
             href="/playground"
             className={cn({
               "text-indigo-500":
@@ -110,7 +110,7 @@ export default function Header() {
             })}
           >
             {t("Playground")}
-          </NavigationLink>
+          </NavigationLink> */}
         </div>
 
         <LocaleSwitcher />
@@ -149,6 +149,28 @@ export default function Header() {
           <div className="mt-6 flow-root">
             <div className="-my-6 divide-y divide-gray-500/10">
               <div className="space-y-2 py-6">
+                <NavigationLink
+                  href="/"
+                  className={cn({
+                    "text-indigo-500": `/${locale}` === pathname,
+                  })}
+                >
+                  {t("home")}
+                </NavigationLink>
+
+                <NavigationLink
+                  href="/examples"
+                  className={cn(
+                    "text-sm font-semibold leading-6 text-gray-900 hover:text-indigo-500 transition-all duration-150",
+                    {
+                      "text-indigo-500":
+                        `/${locale}/${t("Examples")}`.toLowerCase() ===
+                        pathname,
+                    }
+                  )}
+                >
+                  {t("Examples")}
+                </NavigationLink>
                 {/* {navigation.map((item) => (
                   <a
                     key={item.name}

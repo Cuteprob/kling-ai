@@ -31,7 +31,25 @@
         "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-6.mp4",
         "prompt": "明るい青のオウムの羽が光の中でキラキラと輝き、その独特の羽毛と鮮やかな色を披露するクローズアップショット"
       }
-    ]
+    ],
+    "twitterTitle": "Kling AIに関するユーザーフィードバック",
+    "twitterDesc": "TwitterユーザーがKling AIについて何を言っているかをご覧ください。彼らは経験と意見を共有し、実際のユーザーフィードバックを通じてKling AIの利点と機能をよりよく理解するのに役立ちます。",
+    "how": {
+      "title": "Kling AI の使い方",
+      "desc": "KuaiYing アプリで Kling AI の使い方を学ぶ",
+      "step1": {
+        "title": "KuaiYing をダウンロード - Kling AI を体験",
+        "desc": "以下のQRコードをスキャンして KuaiYing アプリをダウンロードしてください。 注意: 現在、KuaiYing は中国の電話番号でのみ登録可能です。 SMS サイトを使用して登録してください。"
+      },
+      "step2": {
+        "title": "KuaiYing で Kling AI の AI 機能を発見",
+        "desc": "アプリに入ったら、画像に示されている AI 機能のマーカーを見つけてクリックし、Kling AI を探索してください。"
+      },
+      "step3": {
+        "title": "Kling AI のベータテストに申し込む",
+        "desc": "パンダのアイコンモデルを選択します。このモデルは Kling AI を表しています。"
+      }
+    }
   },
   "ExamplePage": {
     "videoExample": [

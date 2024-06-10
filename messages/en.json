@@ -31,7 +31,25 @@
         "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-6.mp4",
         "prompt": "A close-up shot of a bright blue parrot's feathers sparkling in the light, showcasing its unique plumage and vibrant colors"
       }
-    ]
+    ],
+    "twitterTitle": "User Feedback on Kling AI",
+    "twitterDesc": "Read what Twitter users are saying about Kling AI. They share their experiences and opinions, helping you better understand the benefits and features of Kling AI through real user feedback.",
+    "how": {
+      "title": "How Kling AI Work",
+      "desc": "Learn how to use kling ai in KuaiYing App",
+      "step1": {
+        "title": "Download KuaiYing - Experience Kling AI",
+        "desc": "Scan the QR code below to download the KuaiYing app. Note: Currently, KuaiYing only supports registration with Chinese phone numbers. Please use an SMS website to register."
+      },
+      "step2": {
+        "title": "Discover AI Features with Kling AI in KuaiYing",
+        "desc": "After entering the app, find the AI Features marker shown in the image and click on it to explore Kling AI."
+      },
+      "step3": {
+        "title": "Apply for Beta Testing of Kling AI",
+        "desc": "Choose the panda icon model; this model represents Kling AI."
+      }
+    }
   },
   "ExamplePage": {
     "videoExample": [

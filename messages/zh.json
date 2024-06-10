@@ -31,7 +31,25 @@
         "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-6.mp4",
         "prompt": "特写镜头下，一只亮蓝色鹦鹉的羽毛在光线下闪闪发光，展示出其独特的羽毛和鲜艳的色彩"
       }
-    ]
+    ],
+    "twitterTitle": "Kling AI 用户反馈",
+    "twitterDesc": "看看 Twitter 用户们对 Kling AI 的评价。他们分享了他们的使用体验和看法，通过真实的用户反馈帮助你更好地了解 Kling AI 的优势和特点。",
+    "how": {
+      "title": "Kling AI 的使用方法",
+      "desc": "在 KuaiYing 应用中学习如何使用 Kling AI",
+      "step1": {
+        "title": "下载 KuaiYing - 体验 Kling AI",
+        "desc": "扫描下方二维码下载 KuaiYing 应用。注意：目前 KuaiYing 仅支持中国手机号注册，请使用短信网站进行注册。"
+      },
+      "step2": {
+        "title": "在 KuaiYing 中发现 Kling AI 的 AI 功能",
+        "desc": "进入应用后，找到图中显示的 AI 功能标记并点击，探索 Kling AI。"
+      },
+      "step3": {
+        "title": "申请 Kling AI 的内测",
+        "desc": "选择熊猫图案的模型，该模型代表 Kling AI。"
+      }
+    }
   },
   "ExamplePage": {
     "videoExample": [

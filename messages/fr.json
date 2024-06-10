@@ -31,7 +31,25 @@
         "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-6.mp4",
         "prompt": "Un gros plan sur les plumes d'un perroquet bleu vif scintillant à la lumière, montrant son plumage unique et ses couleurs vives"
       }
-    ]
+    ],
+    "twitterTitle": "Avis des utilisateurs sur Kling AI",
+    "twitterDesc": "Lisez ce que les utilisateurs de Twitter disent de Kling AI. Ils partagent leurs expériences et opinions, vous aidant à mieux comprendre les avantages et fonctionnalités de Kling AI grâce aux retours d'utilisateurs réels.",
+    "how": {
+      "title": "Comment fonctionne Kling AI",
+      "desc": "Apprenez à utiliser Kling AI dans l'application KuaiYing",
+      "step1": {
+        "title": "Téléchargez KuaiYing - Expérimentez Kling AI",
+        "desc": "Scannez le code QR ci-dessous pour télécharger l'application KuaiYing. Remarque : Actuellement, KuaiYing ne prend en charge que l'inscription avec des numéros de téléphone chinois. Veuillez utiliser un site web SMS pour vous inscrire."
+      },
+      "step2": {
+        "title": "Découvrez les fonctionnalités de l'IA avec Kling AI dans KuaiYing",
+        "desc": "Après être entré dans l'application, trouvez le marqueur des fonctionnalités de l'IA montré dans l'image et cliquez dessus pour explorer Kling AI."
+      },
+      "step3": {
+        "title": "Postulez pour le test bêta de Kling AI",
+        "desc": "Choisissez le modèle avec l'icône de panda ; ce modèle représente Kling AI."
+      }
+    }
   },
   "ExamplePage": {
     "videoExample": [

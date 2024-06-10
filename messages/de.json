@@ -31,7 +31,25 @@
         "src": "https://s2-111386.kwimgs.com/bs2/mmu-aiplatform-temp/kling/0605/first-6.mp4",
         "prompt": "Eine Nahaufnahme der Federn eines leuchtend blauen Papageis, die im Licht funkeln und sein einzigartiges Gefieder und seine lebhaften Farben zeigen"
       }
-    ]
+    ],
+    "twitterTitle": "Nutzerfeedback zu Kling AI",
+    "twitterDesc": "Lesen Sie, was Twitter-Nutzer über Kling AI sagen. Sie teilen ihre Erfahrungen und Meinungen, damit Sie die Vorteile und Funktionen von Kling AI durch echtes Nutzerfeedback besser verstehen können.",
+    "how": {
+      "title": "Wie Kling AI funktioniert",
+      "desc": "Erfahren Sie, wie Sie Kling AI in der KuaiYing App verwenden",
+      "step1": {
+        "title": "KuaiYing herunterladen - Kling AI erleben",
+        "desc": "Scannen Sie den untenstehenden QR-Code, um die KuaiYing App herunterzuladen. Hinweis: Derzeit unterstützt KuaiYing nur die Registrierung mit chinesischen Telefonnummern. Bitte verwenden Sie eine SMS-Website zur Registrierung."
+      },
+      "step2": {
+        "title": "Entdecken Sie die AI-Funktionen mit Kling AI in KuaiYing",
+        "desc": "Nachdem Sie die App betreten haben, finden Sie den im Bild gezeigten AI-Funktionsmarker und klicken Sie darauf, um Kling AI zu erkunden."
+      },
+      "step3": {
+        "title": "Bewerben Sie sich für die Beta-Testphase von Kling AI",
+        "desc": "Wählen Sie das Modell mit dem Panda-Symbol; dieses Modell repräsentiert Kling AI."
+      }
+    }
   },
   "ExamplePage": {
     "videoExample": [

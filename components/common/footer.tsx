@@ -57,9 +57,9 @@ export default function Footer({}: Props) {
             {t("Examples")}
           </NavigationLink>
 
-          <NavigationLink href="/playground" className="font-normal">
+          {/* <NavigationLink href="/playground" className="font-normal">
             {t("Playground")}
-          </NavigationLink>
+          </NavigationLink> */}
         </div>
 
         <div className="flex flex-col gap-3">
@@ -78,6 +78,10 @@ export default function Footer({}: Props) {
           >
             Terms & Conditions
           </Link>
+
+          <a href="https://woy.ai/" title="Woy AI Tools Directory">
+            Woy AI
+          </a>
         </div>
       </div>
     </footer>
